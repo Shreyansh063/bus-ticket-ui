@@ -17,13 +17,7 @@ A simple and clean **frontend UI** for a bus ticket booking system. Built using 
 
 - HTML5
 - CSS3
-- Bootstrap 5
-
----
-
-## 📸 Preview
-
-![Bus Ticket UI Screenshot](./screenshot.png) <!-- Upload your screenshot and name it 'screenshot.png' or update the link -->
+- Bootstrap 5 <!-- Upload your screenshot and name it 'screenshot.png' or update the link -->
 
 ---
 
@@ -45,9 +39,8 @@ A simple and clean **frontend UI** for a bus ticket booking system. Built using 
 ## 🤝 Let’s Connect
 
 - GitHub: [Shreyansh063](https://github.com/Shreyansh063)
-- Mail: your_email@example.com
+- Mail: kshreyansh063@gmail.com
 - More Projects: [Link to your portfolio repo or Gumroad if added]
 
 ---
 
-> This project is part of my **"Invisible Mode" journey** – silently building and learning toward a high-package placement 🚀
