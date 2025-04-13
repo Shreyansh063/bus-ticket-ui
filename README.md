@@ -41,7 +41,7 @@ A simple and clean **frontend UI** for a bus ticket booking system. Built using 
 - GitHub: [Shreyansh063](https://github.com/Shreyansh063)
 - Mail: kshreyansh063@gmail.com
 - More Projects: - 🌐 [My GitHub Portfolio](https://github.com/Shreyansh063)
-- Gumroad: - 🛒 [Digital Products on Gumroad](https://yourusername.gumroad.com)
+- Gumroad: - 🛒 [Digital Products on Gumroad](https://shreyansh10.gumroad.com)
 
 ---
 
